@@ -1,0 +1,68 @@
+body {
+  background-color: white;
+}
+
+#main {
+  background-color: hsl(0, 5%, 92%);
+  border-radius: 5px;
+  text-align: center;
+  padding: 10px;
+  margin: 20px auto;
+  font-family: Cambria;
+}
+
+#title {
+  margin: 50px auto;
+}
+
+#title-intro {
+  margin: 50px auto;
+}
+
+#img-div {
+  background-color: white;
+  padding: 20px 50px;
+  margin: 10px 20px;
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  margin: auto;
+  height: auto;
+}
+
+#heading {
+  margin: 20px auto;
+  padding: 20px;
+}
+
+#tribute-info {
+  width: 50%;
+  margin: 10px auto;
+  text-align: left;
+}
+
+#heading {
+  text-align: center;
+}
+
+#summary li {
+  margin: 20px auto;
+  padding: 20px auto;
+}
+
+#qoute-div {
+  font-style: italic;
+}
+
+#qoute-statement,
+#qoute-author {
+  margin: 20px 20px;
+}
+
+#link-div {
+  font-size: 20px;
+  margin: 20px auto;
+  padding: 30px auto;
+}
